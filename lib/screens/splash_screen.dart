@@ -131,7 +131,7 @@ Please turn on mobile data or wifi''',
                     style: kTextContent.copyWith(color: Colors.grey),
                   ),
                   Text(
-                    'Tosegar',
+                    'Messenger',
                     style: kHeaderText,
                   ),
                   const SizedBox(
