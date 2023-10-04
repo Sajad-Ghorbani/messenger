@@ -185,7 +185,7 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
                 const SizedBox(
                   width: 10,
                 ),
-                Text('Tosegar', style: kHeaderText),
+                Text('Messenger', style: kHeaderText),
               ],
             ),
             actions: [
